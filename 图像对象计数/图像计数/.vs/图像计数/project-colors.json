@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a67e9c3-3f6a-4d63-a7c3-6699fcd53940": {
+      "ProjectGuid": "4a67e9c3-3f6a-4d63-a7c3-6699fcd53940",
+      "DisplayName": "图像计数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

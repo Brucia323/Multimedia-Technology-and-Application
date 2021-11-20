@@ -1,0 +1,10 @@
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\bin\Debug\图像计数.exe.config
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\bin\Debug\图像计数.exe
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\bin\Debug\图像计数.pdb
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.Form1.resources
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.Properties.Resources.resources
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.csproj.GenerateResource.cache
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.csproj.CoreCompileInputs.cache
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.exe
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.pdb
