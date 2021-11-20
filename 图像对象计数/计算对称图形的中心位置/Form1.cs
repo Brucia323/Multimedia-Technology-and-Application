@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace 计算对称图形的中心位置
@@ -51,9 +45,9 @@ namespace 计算对称图形的中心位置
                     }
                 }
             }
-            int centerx=(maxx - minx)/2;
-            int centery=(maxy - miny)/2;
-            int s=(maxx-minx)*(maxy-minx);
+            int centerx = (maxx - minx) / 2;
+            int centery = (maxy - miny) / 2;
+            int s = (maxx - minx) * (maxy - minx);
             label1.Text = "中心点在(" + centerx + "," + centery + ")";
             label1.Text += " 面积是: " + s;
         }
