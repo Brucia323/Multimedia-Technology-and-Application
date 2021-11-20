@@ -8,3 +8,4 @@ C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对
 C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.csproj.CoreCompileInputs.cache
 C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.exe
 C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.pdb
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\图像对象计数\图像计数\obj\Debug\图像计数.csproj.AssemblyReference.cache

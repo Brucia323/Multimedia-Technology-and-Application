@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "749f1a33-7e87-4e9b-88d7-b37dbcbff384": {
+      "ProjectGuid": "749f1a33-7e87-4e9b-88d7-b37dbcbff384",
+      "DisplayName": "计算对称图形的中心位置",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
