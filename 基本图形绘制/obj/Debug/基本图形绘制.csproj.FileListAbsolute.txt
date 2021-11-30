@@ -1,0 +1,11 @@
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\bin\Debug\基本图形绘制.exe.config
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\bin\Debug\基本图形绘制.exe
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\bin\Debug\基本图形绘制.pdb
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.csproj.AssemblyReference.cache
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.Form1.resources
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.Properties.Resources.resources
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.csproj.GenerateResource.cache
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.csproj.CoreCompileInputs.cache
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.exe
+C:\Users\ZZZCNY\Documents\GitHub\Multimedia-Technology-and-Application\基本图形绘制\obj\Debug\基本图形绘制.pdb

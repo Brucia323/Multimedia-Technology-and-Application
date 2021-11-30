@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b852704-8222-4f08-a891-1ba1cbc5bb9c": {
+      "ProjectGuid": "8b852704-8222-4f08-a891-1ba1cbc5bb9c",
+      "DisplayName": "基本图形绘制",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
