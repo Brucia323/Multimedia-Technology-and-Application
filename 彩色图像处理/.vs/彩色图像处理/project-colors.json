@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77e1df7d-5bcb-4ef5-bf30-8973209c36a9": {
+      "ProjectGuid": "77e1df7d-5bcb-4ef5-bf30-8973209c36a9",
+      "DisplayName": "彩色图像处理",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
